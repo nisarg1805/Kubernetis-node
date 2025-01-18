@@ -1,4 +1,4 @@
-# Kubernetis-node
+# Kubernetes-node
 Create EKS Cluster & Node Groups
 Step-00: Introduction
 Understand about EKS Core Objects
